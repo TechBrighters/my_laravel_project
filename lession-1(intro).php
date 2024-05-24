@@ -10,7 +10,7 @@ echo login();
 echo login();
 echo login();
 
-
+echo "here";
 define('CONSTANTVAR','Mihil');
 echo __FUNCTION__;
 //echo $x;
